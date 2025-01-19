@@ -5,6 +5,16 @@ I’m an **offensive cybersecurity specialist** and former **blackhat** turned e
 
 ---
 
+## 📝 **Summary**  
+- Appeared on **BBC Radio 2** as a consultant.  
+- Featured on **LBC Radio** as a consultant.  
+- Published in various **magazines** and **newspapers**.  
+- Helped clients save money through **OSINT** and **OPSEC** strategies.  
+- Dedicated to educating people about **Cybersecurity**, **OPSEC**, **OSINT**, **AI**, and **Crypto**.  
+- Avid **crypto enthusiast**.  
+
+---
+
 ## 🛡️ **What I Do**
 I specialize in:  
 - Offensive Security  
