@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-
-Hi there 👋
-I’m Matthew Beddoes, an offensive cybersecurity specialist and former blackhat turned ethical hacker. With a strong background in Python, JavaScript, and Java development, I’m passionate about building innovative tools and solutions in crypto, AI, chatbots, business tools, and robotics.
+I’m Matthew, an offensive cybersecurity specialist and former blackhat turned ethical hacker. With a strong background in Python, JavaScript, and Java development, I’m passionate about building innovative tools and solutions in crypto, AI, chatbots, business tools, and robotics.
 
 I specialize in offensive security, OPSEC, and OSINT, leveraging my expertise to provide consultancy services in cybersecurity and operational security. My work also extends to cutting-edge fields like SDR (Software-Defined Radio), science and tech research, and developing autonomous systems like drones and robotics.
 
@@ -36,4 +31,3 @@ I thrive on online networking and collaboration, always eager to contribute to o
   Email: matthewbeddoes@outlook.com
 
 😄 Fun Fact: My pronouns are encrypted and digitally secured.
--->
