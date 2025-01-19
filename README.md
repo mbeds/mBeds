@@ -25,6 +25,8 @@ I specialize in:
   - **Crypto** (consultancy, development, exchange, and trading)  
   - **Forex trading**  
   - **Automated trading and agents**  
+  - **OSINT for property development**, competitive analysis, marketing chatbots, and automated tools for business.  
+  - **Darknet OSINT** and **threat intelligence**.  
 
 I also work on:  
 - **SDR (Software-Defined Radio)**  
@@ -62,6 +64,7 @@ I also work on:
 - Python, JavaScript, and Java development.  
 - AI tools, crypto, and OSINT projects.  
 - Automated trading and agent systems.  
+- **OSINT for property development**, competitive analysis, and business automation.  
 
 ---
 
