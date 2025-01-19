@@ -20,11 +20,16 @@ I specialize in:
 - Offensive Security  
 - OPSEC (Operational Security)  
 - OSINT (Open-Source Intelligence)  
+- Developing **offensive AI cybersecurity tools**  
+- Providing consultancy and development in:  
+  - **Crypto** (consultancy, development, exchange, and trading)  
+  - **Forex trading**  
+  - **Automated trading and agents**  
 
-I provide consultancy services in **cybersecurity** and **operational security**, and my work extends to:  
+I also work on:  
 - **SDR (Software-Defined Radio)**  
 - **Science and Tech Research**  
-- Developing autonomous systems like drones and robotics.  
+- Autonomous systems like drones and robotics.  
 
 ---
 
@@ -56,6 +61,7 @@ I provide consultancy services in **cybersecurity** and **operational security**
 - Offensive security and OPSEC strategies.  
 - Python, JavaScript, and Java development.  
 - AI tools, crypto, and OSINT projects.  
+- Automated trading and agent systems.  
 
 ---
 
