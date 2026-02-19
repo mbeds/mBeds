@@ -1,77 +1,55 @@
+# 🐉 Matthew Beddoes | The Red Dragon
 
-# Hi, I’m Matthew 👋  
+### *"The Black Dragon was the shadow of the Red Dragon."*
 
-I’m an **offensive cybersecurity specialist** and former **blackhat** turned ethical hacker. With a strong background in **Python**, **JavaScript**, and **Java development**, I’m passionate about building innovative tools and solutions in **crypto**, **AI**, **chatbots**, **business tools**, and **robotics**.
+I am an **offensive cybersecurity specialist** and former **blackhat** turned independent auditor. For over a decade, my work exposing the vulnerabilities of global systems has been featured by the **BBC**, **Reuters**, **LBC**, and **Foreign Policy**. 
 
----
-
-## 📝 **Summary**  
-- Appeared on **BBC Radio 2** as a consultant.  
-- Featured on **LBC Radio** as a consultant.  
-- Published in various **magazines** and **newspapers**.  
-- Helped clients save money through **OSINT** and **OPSEC** strategies.  
-- Dedicated to educating people about **Cybersecurity**, **OPSEC**, **OSINT**, **AI**, and **Crypto**.  
-- Avid **crypto enthusiast**.  
+Today, I use that "shadow" experience to solve discreet, complex problems for private clients and provide raw, unbiased truth for those who cannot afford to be compromised.
 
 ---
 
-## 🛡️ **What I Do**
-I specialize in:  
-- Offensive Security  
-- OPSEC (Operational Security)  
-- OSINT (Open-Source Intelligence)  
-- Developing **offensive AI cybersecurity tools**  
-- Providing consultancy and development in:  
-  - **Crypto** (consultancy, development, exchange, and trading)  
-  - **Forex trading**  
-  - **Automated trading and agents**  
-  - **OSINT for property development**, competitive analysis, marketing chatbots, and automated tools for business.  
-  - **Darknet OSINT** and **threat intelligence**.  
+## 🛡️ Independent Audit & Intelligence
+I operate **[UK Cybersecurity Testing](https://ukcybersecuritytesting.co.uk)**, a strictly independent consultancy. My stance is simple: **I only test.** I find the gaps that "certified experts" and automated scanners miss.
 
-I also work on:  
-- **SDR (Software-Defined Radio)**  
-- **Science and Tech Research**  
-- Autonomous systems like drones and robotics.  
+* **Media Consultant:** Featured expert for BBC Radio 2 and Reuters.
+* **Property Intelligence:** Developing custom OSINT tools for property developers to identify off-market opportunities and perform deep-dive competitor analysis using Python and Neo4j.
+* **Discreet Problem Solving:** High-level OPSEC, personal digital footprint removal, and private intelligence for directors.
 
 ---
 
-## 🚀 **Currently Working On**  
-- **Text2Drone**: Bridging natural language processing with drone automation.  
-- **Text2OSINT**: Simplifying Open-Source Intelligence through AI-powered tools.  
-- **Text2CAD**: Revolutionizing computer-aided design with text-driven workflows.  
-- **Java + Neo4j + LLM RAG**: Combining Java, graph databases, and retrieval-augmented generation for innovative solutions.  
-- **Secure Private Messenger**: Building the next generation of secure communication tools.  
+## 🚀 The Lab: AI, Robotics & Secure Systems
+I don’t just find holes; I build the tools of the future. Currently pursuing **AI and Robotics** at Wolverhampton University.
+
+* **Text2Drone:** Bridging natural language processing with drone automation.
+* **Text2OSINT:** Simplifying Open-Source Intelligence through AI-powered tools.
+* **Secure Messenger:** Building the next generation of private, encrypted communication tools.
+* **Graph-Based RAG:** Combining Java, Neo4j, and LLMs for advanced business automation and intelligence.
 
 ---
 
-## 🛠️ **Coded Projects**  
-- **Crypto Escrow Bots**: Streamlined secure cryptocurrency transactions.  
-- **Data Processing Scripts**: Automating workflows and large-scale data operations.  
-- **UK Property OSINT Scripts**: Empowering property research with open-source intelligence.  
+## 🛠️ Technical Arsenal
+* **Languages:** Python, JavaScript, Java.
+* **Specialties:** Offensive Security, OPSEC, OSINT, SDR (Software-Defined Radio).
+* **Crypto:** Consultancy and development for secure exchanges, escrow bots, and private transactions.
+* **Intelligence:** Darknet OSINT and supply chain threat monitoring.
 
 ---
 
-## 🌱 **Currently Learning**  
-- **Computer Science** at Wolverhampton University, with an emphasis on **AI** and **Robotics**.  
-- Advanced techniques in **AI and LLMs**.  
-- Deep diving into **secure communication protocols**.  
-- Exploring **cybersecurity** in AI-driven environments.  
+## 💬 Ask Me About
+* Offensive security and the "Red Dragon" methodology.
+* AI-driven automation and robotics.
+* OSINT for property development and competitive intelligence.
+* Building secure, private-by-design systems.
 
 ---
 
-## 💬 **Ask Me About**  
-- Offensive security and OPSEC strategies.  
-- Python, JavaScript, and Java development.  
-- AI tools, crypto, and OSINT projects.  
-- Automated trading and agent systems.  
-- **OSINT for property development**, competitive analysis, and business automation.  
+## 📫 Secure Communication
+* **Web:** [ukcybersecuritytesting.co.uk](https://ukcybersecuritytesting.co.uk)
+* **LinkedIn:** [linkedin.com/in/matthewbeddoes/](https://www.linkedin.com/in/matthewbeddoes/)
+* **Email:** [matthew@ukcybersecuritytesting.co.uk](mailto:matthew@ukcybersecuritytesting.co.uk)
+* **Signal / WhatsApp:** 07986 903415
 
 ---
 
-## 📫 **How to Reach Me**  
-📧 Email: [matthewbeddoes@outlook.com](mailto:matthewbeddoes@outlook.com)  
-
----
-
-## 😄 **Fun Fact**  
-My pronouns are **encrypted** and **digitally secured**.  
+## 😄 Fun Fact
+My pronouns are **encrypted** and **digitally secured**.
