@@ -18,7 +18,7 @@ I operate **[UK Cybersecurity Testing](https://ukcybersecuritytesting.co.uk)**, 
 ---
 
 ## 🚀 The Lab: AI, Robotics & Secure Systems
-I don’t just find holes; I build the tools of the future. Currently pursuing **AI and Robotics** at Wolverhampton University.
+I don’t just find holes; I build the tools of the future. Currently pursuing **Computer Science** at Wolverhampton University to evolve my understanding of AI and complex systems.
 
 * **Text2Drone:** Bridging natural language processing with drone automation.
 * **Text2OSINT:** Simplifying Open-Source Intelligence through AI-powered tools.
